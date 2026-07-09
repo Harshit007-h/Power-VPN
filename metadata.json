@@ -1,0 +1,6 @@
+{
+  "name": "Power VPN",
+  "description": "A premium VPN application with modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
