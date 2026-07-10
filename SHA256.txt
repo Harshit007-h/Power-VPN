@@ -1,0 +1,3 @@
+APK File Size: 19757895 bytes
+SHA-256 Hash: fd32e08ad61c529f7af67436e2ae984221b54501d9288e67b52944b9eace534c
+Verification: PowerVPN.apk exists and is exactly 19,757,895 bytes.
